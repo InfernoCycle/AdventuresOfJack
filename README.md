@@ -1,6 +1,6 @@
 # AdventuresOfJack
 Just a Simple Video Game I made for a school assignment. You just go through a level and fight or skip all the enemies
-and defeat the final boss at the end of the level. It only has one level tho since that's all I could manage in a week.
+and defeat the final boss at the end of the level. It only has one level and no audio tho since that's I couldn't manage manage much in a week.
 
 ## How To Play
 1. Download [zip](https://github.com/InfernoCycle/AdventuresOfJack/releases/tag/v1.0.0) and extract contents and make sure to not move anything out of extracted folder.
