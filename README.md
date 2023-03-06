@@ -1,4 +1,4 @@
-# AdventuresOfJack
+# Adventures Of Jack
 Just a Simple Video Game I made for a school assignment. You just go through a level and fight or skip all the enemies
 and defeat the final boss at the end of the level. It only has one level and no audio tho since that's I couldn't manage manage much in a week.
 
