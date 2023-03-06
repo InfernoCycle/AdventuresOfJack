@@ -3,7 +3,8 @@ Just a Simple Video Game I made for a school assignment. You just go through a l
 and defeat the final boss at the end of the level. It only has one level tho since that's all I could manage in a week.
 
 ## How To Play
-1. Start up exe and press the start button upon the game loading.
+1. Download [zip](https://github.com/InfernoCycle/AdventuresOfJack/releases/tag/v1.0.0) and extract contents and make sure to not move anything out of extracted folder.
+1. Start up the "AdventuresOfJack2.exe" and press the start button upon the game loading.
 2. You can change keybinds by clicking the gear on the top right corner of start menu.
 3. Objective is to run through the level and fight the final boss who is the leader of the shadows.
 
