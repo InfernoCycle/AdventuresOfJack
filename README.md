@@ -18,3 +18,4 @@ and defeat the final boss at the end of the level. It only has one level and no 
 1. Upon beating the boss the game over screen will not appear and you will have to leave game manually by quitting.
 2. Upon dying the game over screen will not appear as well and you will again have to manually quit game.
 3. Jumping may cause running animation to continue instead of jumping animation even though character is not touching ground.
+4. might fall through the map at the end of the level.
